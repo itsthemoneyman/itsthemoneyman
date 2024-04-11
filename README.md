@@ -1,1 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/quEsMOrr3hmQ8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-awesome-gifs-gif-quEsMOrr3hmQ8">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE4a2FpM25vd2NnNTJwbm55YWM5MWk4OXIybnVpcGdoNTBubXZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" width="100"/>
+</div>
